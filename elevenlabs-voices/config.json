@@ -1,0 +1,9 @@
+{
+  "api_key": "sk_21e560f185f210e29e0f9b471df5a3372d92d2cbb0a23eba",
+  "default_voice": "river",
+  "language": "en",
+  "model": "eleven_multilingual_v2",
+  "quality": "standard",
+  "cost_tracking": true,
+  "budget_limit": null
+}
