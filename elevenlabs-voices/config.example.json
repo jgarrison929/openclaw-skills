@@ -1,5 +1,5 @@
 {
-  "api_key": "sk_21e560f185f210e29e0f9b471df5a3372d92d2cbb0a23eba",
+  "api_key": "YOUR_ELEVENLABS_API_KEY",
   "default_voice": "river",
   "language": "en",
   "model": "eleven_multilingual_v2",
